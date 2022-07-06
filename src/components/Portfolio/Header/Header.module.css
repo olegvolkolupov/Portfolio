@@ -1,0 +1,47 @@
+.container {
+  position: fixed;
+  top: 0px;
+  z-index: 100;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 94vw;
+  height: 6vh;
+
+  background-color: gainsboro;
+}
+
+button {
+  padding: 4px 4px;
+  margin: 0 4px;
+
+  color: black;
+  font-size: 18px;
+  
+  text-decoration: none;
+  border: none;
+  background-color: gainsboro;
+  cursor: pointer;
+}
+
+.name {
+  color: green;
+  font-size: larger;
+  font-weight: 600;
+}
+
+button:hover {
+  color: aquamarine;
+  background-color: gray;
+  border-radius: 5px;
+}
+
+/* a.active {
+  color: white;
+  background-color: #ddd;
+} */
+
+/* a:hover:not(.active) {
+  background-color: #ddd;
+} */

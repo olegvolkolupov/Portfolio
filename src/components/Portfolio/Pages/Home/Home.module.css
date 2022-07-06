@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 94vw;
+    height: 90vh;
+  
+    color: whitesmoke;
+  
+    background-image: url(./bg.jpg);
+    background-color: #333333;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /* JAVA SCRIPT */
+  .title {
+    text-align: center;
+  }
+  
+  .bigTitle {  
+    font: normal 20vh "Cinzel";
+  }
+  
+  /* DEVELOPER */
+  .smallTitle {
+    font: bold 5vh "TimesNew";
+  }
+  
+  .button {
+    display: inline-block;
+    
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+  
+    padding: 15px 32px;
+    margin: 4px 2px;
+  
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 2px;
+    box-shadow: 0 8px 16px 0 lightgrey, 0 6px 20px 0 lightgrey;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    color: black;
+    background-color: white;
+  }

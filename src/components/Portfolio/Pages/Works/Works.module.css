@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.contantBlock {
+    margin: 10px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    border: 1px solid gray;
+
+    font-size: large;
+    font-weight: 600;
+    color: darkslategray;
+
+    text-align: center;
+    text-decoration: none;
+}
+
+.siteImage:hover {
+    transform: translateY(-2px) scale(1.005) translateZ(0);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.11), 0 6px 9px rgba(47, 47, 47, 0.76);  
+}

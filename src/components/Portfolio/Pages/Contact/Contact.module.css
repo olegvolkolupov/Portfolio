@@ -1,0 +1,64 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+}
+
+.myMail {
+  padding: 20px;
+
+  color: green;
+}
+
+.submitButton {
+  padding: 16px 32px;
+  margin-bottom: 40px;
+
+  display: inline-block;
+
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  color: black; 
+  background-color: white; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+  border: 2px solid #4CAF50;
+}
+
+.submitButton:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+/* 
+.mailForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.mailFieldset {
+  width: 100%;
+}
+
+.emailInput {
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+}
+
+.messageArea {
+  width: 100%;
+  font-size: 18px;
+}
+
+.submitButton {
+  max-width: 80px;
+  height: 30px;
+  font-size: 18px;
+} */

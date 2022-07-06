@@ -1,0 +1,118 @@
+.container {
+  margin: 10px;
+
+  display: flex;
+  align-items: flex-start;
+  /* flex-wrap: wrap; */
+
+  width: 100%;
+
+  font-size: 18px;
+}
+
+.personalDataContainer {
+  padding-top: 30px;
+  padding-left: 0px;
+
+  display: block;
+  width: 30vw;
+  min-width: 150px;
+
+  color: #ffffff;
+
+  background-color: #17178d;
+}
+
+.fio {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+
+  /* font-size: 4vw; */
+  font-size: 42px;
+  font-weight: 600;
+}
+
+.speciality {
+  font-size: 2vw;
+  font-size: 24px;
+  padding-left: 20px;
+}
+
+.photo {
+  padding-left: 20px;
+
+  width: 26vw;
+  min-width: 148px;
+}
+
+.title {
+  padding-left: 20px;
+
+  display: flex;
+  align-items: center;
+  height: 50px;
+
+  font-size: 24px;
+  font-weight: 600;
+
+  background-color: #000066;
+}
+
+.skills {
+  padding-left: 20px;
+}
+
+.cvContainer {
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+
+  width: 60vw;
+  min-width: 200px;
+}
+
+.cvTitle {
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  font-size: 24px;
+  font-weight: 600;
+  color: #17178d;
+
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
+
+.yearsColumn {
+  vertical-align: top;
+}
+
+.infoColumn {
+  vertical-align: top;
+}
+
+.jobName {
+  margin-top: 0px;
+}
+
+.location {
+  font-style: italic;
+}
+
+.cvLink {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.cvLink:hover,
+.cvLink:active {
+  background-color: green;
+  color: white;
+}
