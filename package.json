@@ -1,5 +1,6 @@
 {
-  "name": "apollon-site",
+  "name": "portfolio",
+  "homepage": "https://olegvolkolupov.github.io/Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
