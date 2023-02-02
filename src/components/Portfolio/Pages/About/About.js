@@ -1,7 +1,8 @@
 import React from "react";
 
 import cvFoto from "./CV-foto.jpg";
-import cvPdf from "./Oleh-Volkolupov-CV-en.pdf";
+import cvEn from "./Oleh-Volkolupov-CV-en.pdf";
+import cvPl from "./Oleh-Volkolupov-CV-pl.pdf";
 import styles from "./About.module.css";
 
 export default function About() {
@@ -14,7 +15,7 @@ export default function About() {
         <img className={styles.photo} src={cvFoto} alt="face" />
         {/* <p className={styles.title}>Personal data</p>
         <p>Email:</p>
-        <p>OlehVolkolupov@gmail.com</p>
+        <p>Volkolupov.Oleh@gmail.com</p>
 				<p>Phone number</p>
 				<p>+48665744482</p> */}
         <p className={styles.title}>Skills</p>
@@ -31,13 +32,11 @@ export default function About() {
         <p className={styles.title}>Languages</p>
         <div className={styles.skills}>
           <p>
+            Russian / Ukrainian - native
+            <br />
             English - communicative
             <br />
             Polish - advanced
-            <br />
-            Russian / Ukrainian - native
-            <br />
-            German - basic
           </p>
         </div>
       </div>
@@ -184,7 +183,8 @@ export default function About() {
           </tbody>
         </table>
         <hr />
-        <a className={styles.cvLink} href={cvPdf} target="_blanck">CV</a>
+        <a className={styles.cvLink} href={cvEn} target="_blanck">CV en</a>
+        <a className={styles.cvLink} href={cvPl} target="_blanck">CV pl</a>
       </div>
     </div>
   );

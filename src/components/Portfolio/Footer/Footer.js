@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <div className={styles.container}>
       <hr />
-      <p>&copy; 2021 - 2022 JavaScript developer Portfolio</p>
+      <p>&copy; 2021 - 2023 JavaScript developer Portfolio</p>
     </div>
   )
 }

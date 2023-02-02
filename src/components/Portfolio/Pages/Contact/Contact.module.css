@@ -6,6 +6,15 @@
   width: 500px;
 }
 
+.myLinkedin {
+  padding-top: 20px;
+
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 24px;
+  /* color: blue; */
+}
+
 .myMail {
   padding: 20px;
 
