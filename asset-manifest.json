@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ef29df5d.css",
-    "main.js": "/Portfolio/static/js/main.4ba94267.js",
-    "static/media/02_gallery.png": "/Portfolio/static/media/02_gallery.2450a32ea6b2b01779c9.png",
-    "static/media/06_onCinema.png": "/Portfolio/static/media/06_onCinema.938f68c54f2c40261d87.png",
-    "static/media/05_imageSearch.png": "/Portfolio/static/media/05_imageSearch.3397663a721954bfc883.png",
-    "static/media/Oleh-Volkolupov-CV-pl.pdf": "/Portfolio/static/media/Oleh-Volkolupov-CV-pl.c163497c5238798708a4.pdf",
-    "static/media/Oleh-Volkolupov-CV-en.pdf": "/Portfolio/static/media/Oleh-Volkolupov-CV-en.943fed32789e2ea1d4d0.pdf",
-    "static/media/CV-foto.jpg": "/Portfolio/static/media/CV-foto.a4b3d2a78297e31b6dd2.jpg",
-    "static/media/logo.png": "/Portfolio/static/media/logo.73156e552fbc12591c70.png",
-    "static/media/04_countryInfo.png": "/Portfolio/static/media/04_countryInfo.c5cee438bdbb6b5f1b9e.png",
-    "static/media/01_keycode.png": "/Portfolio/static/media/01_keycode.c720a99d98ca97a379b0.png",
-    "static/media/03_timer.png": "/Portfolio/static/media/03_timer.0414b6c03aab746878e4.png",
-    "static/media/bg.jpg": "/Portfolio/static/media/bg.28e6463fa8eb473038ee.jpg",
-    "index.html": "/Portfolio/index.html",
-    "main.ef29df5d.css.map": "/Portfolio/static/css/main.ef29df5d.css.map",
-    "main.4ba94267.js.map": "/Portfolio/static/js/main.4ba94267.js.map"
+    "main.css": "/portfolio/static/css/main.ede38e43.css",
+    "main.js": "/portfolio/static/js/main.96ddfea0.js",
+    "static/media/02_gallery.png": "/portfolio/static/media/02_gallery.2450a32ea6b2b01779c9.png",
+    "static/media/06_onCinema.png": "/portfolio/static/media/06_onCinema.938f68c54f2c40261d87.png",
+    "static/media/05_imageSearch.png": "/portfolio/static/media/05_imageSearch.3397663a721954bfc883.png",
+    "static/media/Oleh-Volkolupov-CV-pl.pdf": "/portfolio/static/media/Oleh-Volkolupov-CV-pl.c163497c5238798708a4.pdf",
+    "static/media/Oleh-Volkolupov-CV-en.pdf": "/portfolio/static/media/Oleh-Volkolupov-CV-en.943fed32789e2ea1d4d0.pdf",
+    "static/media/CV-foto.jpg": "/portfolio/static/media/CV-foto.a4b3d2a78297e31b6dd2.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.73156e552fbc12591c70.png",
+    "static/media/04_countryInfo.png": "/portfolio/static/media/04_countryInfo.c5cee438bdbb6b5f1b9e.png",
+    "static/media/01_keycode.png": "/portfolio/static/media/01_keycode.c720a99d98ca97a379b0.png",
+    "static/media/03_timer.png": "/portfolio/static/media/03_timer.0414b6c03aab746878e4.png",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.28e6463fa8eb473038ee.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.ede38e43.css.map": "/portfolio/static/css/main.ede38e43.css.map",
+    "main.96ddfea0.js.map": "/portfolio/static/js/main.96ddfea0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef29df5d.css",
-    "static/js/main.4ba94267.js"
+    "static/css/main.ede38e43.css",
+    "static/js/main.96ddfea0.js"
   ]
 }
