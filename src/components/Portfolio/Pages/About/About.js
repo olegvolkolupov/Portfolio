@@ -11,7 +11,8 @@ export default function About() {
       <div className={styles.personalDataContainer}>
         <p className={styles.fio}>Oleh</p>
         <p className={styles.fio}>Volkolupov</p>
-        <p className={styles.speciality}>JavaScript developer</p>
+        <p className={styles.speciality}>JavaScript, React</p>
+        <p className={styles.speciality}>Front-End developer</p>
         <img className={styles.photo} src={cvFoto} alt="face" />
         {/* <p className={styles.title}>Personal data</p>
         <p>Email:</p>
@@ -20,7 +21,8 @@ export default function About() {
 				<p>+48665744482</p> */}
         <p className={styles.title}>Skills</p>
         <div className={styles.skills}>
-          <p>JavaScript, HTML, CSS, Webpack, React, Java</p>
+          <p>JavaScript, React, Webpack, HTML, CSS, Java</p>
+          <p>SQL, Excel, MS Power BI</p>
           <p>Visual Studio Code, Intelij IDEA, React, Github, Slack</p>
           <p>
             Maintenance of computers and office programs. Linux, MS Windows, MS
@@ -102,7 +104,7 @@ export default function About() {
               </td>
             </tr>
             <tr>
-              <td className={styles.yearsColumn}>2020 - nowadays</td>
+              <td className={styles.yearsColumn}>2020 - 2022</td>
               <td className={styles.infoColumn}>
                 <h3 className={styles.jobName}>CNC machine operator</h3>
                 <p className={styles.location}>"Gabi", Piaski, Poland</p>
@@ -113,11 +115,25 @@ export default function About() {
                 </ul>
               </td>
             </tr>
+            <tr>
+              <td className={styles.yearsColumn}>2023</td>
+              <td className={styles.infoColumn}>
+                <h3 className={styles.jobName}>Freelancer</h3>
+              </td>
+            </tr>
           </tbody>
         </table>
         <p className={styles.cvTitle}>Education</p>
         <table>
           <tbody>
+          <tr>
+              <td className={styles.yearsColumn}>2023</td>
+              <td className={styles.infoColumn}>
+                <h3 className={styles.jobName}>
+                  SQL, MS Poswer BI
+                </h3>
+              </td>
+            </tr>
             <tr>
               <td className={styles.yearsColumn}>2021 - 2022</td>
               <td className={styles.infoColumn}>
@@ -164,7 +180,7 @@ export default function About() {
         <table>
           <tbody>
             <tr>
-              <td className={styles.yearsColumn}>2012 - 2020</td>
+              <td className={styles.yearsColumn}>2012 - 2023</td>
               <td className={styles.infoColumn}>
                 <h3 className={styles.jobName}>
                   Organization of mass events, concerts. Work in a recording
